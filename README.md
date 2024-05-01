@@ -26,6 +26,7 @@ Ce projet est une application mobile de gestion des bénévoles pour le Festival
   - Etre flexible sur les postes qu'ils souhaitent.
   - S'inscrire aux zones bénévoles.
   - Consulter les différents jeux disponibles pour chaque zone bénévole.
+  - Consulter les référents pour les postes.
   - Recevoir et gérer leurs notifications.
   - Répondre aux messages qui leur sont adressés.
   - Gérer leur profil.
@@ -38,6 +39,7 @@ Ce projet est une application mobile de gestion des bénévoles pour le Festival
 - [Installation](#installation)
   - [Prérequis](#prérequis)
   - [Lancement](#lancement)
+- [Documentation](#documentation)
 - [Auteurs](#auteurs)
 - [Depot Git](#depot-git)
 - [Identifiants administrateurs et lien appli web](#identifiants-administrateurs-et-lien-appli-web)
@@ -54,6 +56,11 @@ Il est nécessaire d'avoir Playground pour lancer l'application. Aucun module ex
 <sup>[(Retour en haut)](#table-des-matières)</sup>
 
 Pour lancer le projet, suivez les instructions que Playground vous donne.
+
+# Documentation
+<sup>[(Retour en haut)](#table-des-matières)</sup>
+
+La documentation est fournie et n'hésitez pas à me contacter pour toute question.
 
 # Auteurs
 <sup>[(Retour en haut)](#table-des-matières)</sup>
