@@ -2,6 +2,10 @@
 
 # Application Mobile de Gestion des Bénévoles
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce travail est sous licence <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+
+---
+
 ### **Description**
 
 Ce projet est une application mobile de gestion des bénévoles pour le Festival Du Jeu à Montpellier.
